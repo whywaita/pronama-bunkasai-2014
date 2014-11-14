@@ -117,8 +117,7 @@ kureikei_words = [
   "予定だよ",
   "タスクだよ",
   "ビルド開始！",
-  "メール送信！",
-
+  "メール送信！"
 ]
 
 module.exports = (robot) ->
