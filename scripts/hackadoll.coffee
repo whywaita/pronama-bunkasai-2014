@@ -4,7 +4,7 @@
 # Commands:
 #   @hackadoll - ランダムで話す
 # Author:
-#   
+#   whywaita
 
 
 hackadoll_words = [

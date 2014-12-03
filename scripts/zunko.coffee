@@ -4,7 +4,7 @@
 # Commands:
 #   @zunko - ランダムで話す
 # Author:
-#   
+#   whywaita
 
 
 zunko_words = [

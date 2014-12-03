@@ -4,7 +4,7 @@
 # Commands:
 #   @claudia - ランダムで話す
 # Author:
-#   
+#   whywaita
 
 
 claudia_words = [

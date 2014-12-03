@@ -4,7 +4,7 @@
 # Commands:
 #   @daruyanagi - ランダムで話す
 # Author:
-#   
+#   whywaita
 
 daruyanagi_words = [
     "ざまぁ ",

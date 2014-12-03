@@ -4,7 +4,7 @@
 # Commands:
 #   @anzu - ランダムで話す
 # Author:
-#   
+#   whywaita
 
 
 anzu_words = [

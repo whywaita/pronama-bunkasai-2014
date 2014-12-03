@@ -4,7 +4,7 @@
 # Commands:
 #   @conoha - ランダムで話す
 # Author:
-#   
+#   whywaita
 
 
 conoha_words = [
