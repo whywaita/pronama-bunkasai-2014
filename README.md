@@ -25,7 +25,7 @@ http://memo.sanographix.net/post/88371442780
 
 # LICENSE
 
-  |||
+|||
 |:-:|:-:|
 |美雲このは|&copy; GMO Internet, Inc.|
 |美雲あんず|&copy; GMO Internet, Inc. 2012|
